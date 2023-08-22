@@ -1,6 +1,7 @@
 ---
 title: File picker and uploads
 sidebar_label: File picker and uploads
+another : JANISH
 ---
 
 [File picker](/docs/controls/filepicker) control opens a native OS dialog for selecting files and directories.
